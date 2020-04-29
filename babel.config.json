@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "targets": {
+          "ie": "6"
+        },
+        "useBuiltIns": "usage",
+      }
+    ]
+  ]
+}
